@@ -1,0 +1,30 @@
+{
+  "name": "zadanie_8_3",
+  "version": "1.0.0",
+  "description": "Kodilla Bootcamp https://marcinbb.github.io/learning-git-2/",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcinBB/zadanie_8_3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcinBB/learning-git-2/issues"
+  },
+  "homepage": "https://github.com/MarcinBB/learning-git-2#readme",
+  "dependencies": {
+    "browser-sync": "^2.23.6"
+  },
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "node-sass": "^4.7.2",
+    "npm-run-all": "^4.1.2",
+    "nu-html-checker": "^0.1.0",
+    "onchange": "^3.3.0",
+    "rimraf": "^2.6.2"
+  }
+}
