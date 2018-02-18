@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Kodilla Bootcamp https://marcinbb.github.io/learning-git-2/",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MarcinBB/zadanie_8_3.git"
