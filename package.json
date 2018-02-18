@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Kodilla Bootcamp https://marcinbb.github.io/learning-git-2/",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npm-run-all test:*",
+    "test:js": "jshint js/*.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MarcinBB/zadanie_8_3.git"
@@ -20,6 +23,7 @@
   },
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
+    "jshint": "^2.9.5",
     "node-sass": "^4.7.2",
     "npm-run-all": "^4.1.2",
     "nu-html-checker": "^0.1.0",
